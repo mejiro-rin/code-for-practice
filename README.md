@@ -12,8 +12,8 @@
 | ------------- | ------------------- | ------------------------------------------------------------------ |
 | `lanqiao`     | 蓝桥杯（云课）训练与真题复盘     | 👉 [前往](https://github.com/mejiro-rin/Practice_code/tree/lanqiao)  |
 | `leetcode`    | LeetCode 刷题与题解  | 👉 [前往](https://github.com/mejiro-rin/Practice_code/tree/leetcode) |
-| `luogu`       | 洛谷日常刷题与竞赛练习     | 🪧 *待添加*                                                           |
-| `pta`         | PTA 题库训练与实验代码 | 🪧 *待添加*                                                           |
+| `luogu`       | 洛谷日常刷题与竞赛练习     | 👉 [前往](https://github.com/mejiro-rin/code-for-practice/tree/luogu)     |
+| `pta`         | PTA 题库训练与实验代码 | 👉 [前往](https://github.com/mejiro-rin/code-for-practice/tree/pta)     |
 | `nowcoder`    | 牛客网各类题型与编程训练    | 🪧 *待添加*                                                           |
 
 >  每个分支内根据题目编号分类，方便检索与复盘。

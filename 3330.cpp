@@ -1,4 +1,4 @@
-// 3330_找到初始输入字符串 I
+// 3330.找到初始输入字符串 I
 
 #include <iostream>
 #include <string>

@@ -1,4 +1,4 @@
-// 1742_盒子中小球的最大数量
+// 1742.盒子中小球的最大数量
 
 class Solution {
 public:
@@ -21,3 +21,9 @@ public:
         return Max;
     }
 };
+
+int main(){
+    Solution test;
+    // 示例测试
+    return 0;
+}
